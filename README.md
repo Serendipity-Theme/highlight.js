@@ -1,20 +1,49 @@
 ![Midnight](https://raw.githubusercontent.com/Serendipity-Theme/assets/main/githubHeader.png)
 
-# Serendipity for [Platform]
+# Serendipity for Highlight.js
 
 
-# Installation
-
-1. Open **X**.
-2. Search for **X**
-3. Click **X** to do **X**
+# Link to Midnight
+```html
+<link
+    rel="stylesheet"
+    href="https://raw.githubusercontent.com/Serendipity-Theme/highlight.js/main/min/midnight.min.css"
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+/>
+```
 
 # Screenshots Under this heading
-![VS Code](https://raw.githubusercontent.com/Serendipity-Theme/vs-code/master/sunset.png)
+![VS Code](https://raw.githubusercontent.com/Serendipity-Theme/highlight.js/master/midnight.png)
 
-# Who ported the theme?
 
-# Standard formatting
-- Add the same header on the repo
-- Call the repo as the app you are porting for.
+# Link to Sunset
+```html
+<link
+    rel="stylesheet"
+    href="https://raw.githubusercontent.com/Serendipity-Theme/highlight.js/main/min/sunset.min.css"
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+/>
+```
 
+# Screenshots Under this heading
+![VS Code](https://raw.githubusercontent.com/Serendipity-Theme/highlight.js/master/sunset.png)
+
+
+# Link to Morning
+```html
+<link
+    rel="stylesheet"
+    href="https://raw.githubusercontent.com/Serendipity-Theme/highlight.js/main/min/morning.min.css"
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+/>
+```
+
+# Screenshots Under this heading
+![VS Code](https://raw.githubusercontent.com/Serendipity-Theme/highlight.js/master/morning.png)
+
+#
+
+Sequoia Theme created by [Micheal Andreuzza](https://github.com/michael-andreuzza) and ported by Mike.
